@@ -5,6 +5,7 @@ eventdove_wp_plugin
 
 会鸽API访问 Wordpress 插件
 
+
 会鸽集成活动简单步骤
 1. 创建会鸽帐号
 2. 进入open.eventdove.com 申请开发者帐号，申请完成后需要审批
